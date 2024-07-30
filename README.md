@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayani Verma</h1>
-<h2 align="center">A passionate frontend developer from Manipal University Jaipur</h2>
+<h3 align="center">A passionate frontend developer from Manipal University Jaipur</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img text decorantons:"none" src="https://komarev.com/ghpvc/?username=aayaniverma&label=Profile%20views&color=0e75b6&style=flat" alt="aayaniverma" /> </p>
