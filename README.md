@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Aayani Verma</h2>
+<h1 align="center">Hi 👋, I'm Aayani Verma</h1>
 <h3 align="center">A passionate frontend developer from Manipal University Jaipur</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
