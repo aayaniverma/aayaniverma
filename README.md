@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **aayaniverma@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EfWHjcE8tgwBci6O-JZA4efeFNer4j04/view?usp=drive_link">
+ <a href="https://drive.google.com/file/d/1EfWHjcE8tgwBci6O-JZA4efeFNer4j04/view?usp=drive_link">- 📄 Know about my experiences</a>
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
